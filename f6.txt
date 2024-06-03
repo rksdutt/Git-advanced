@@ -1,4 +1,4 @@
-This is a latest feature
+This is a feature.
 
 
 
@@ -13,6 +13,6 @@ I'm working too munch.
 
 It's under development by rksdutt.
 
-
+Added some changes on remote repo.
 
 I have to work on something now its enough, rest of work will be seen later.
